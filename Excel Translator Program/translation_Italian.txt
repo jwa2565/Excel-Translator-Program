@@ -1,0 +1,87 @@
+0: STRUMENTI
+1: ISTRUZIONI VISIVE DI LAVORO
+2: Doc. n.
+3: Creato da:
+4: Dipartimento / Linea:
+5: Data originale:
+6: Operazione:
+7: Data revisione:
+8: Prodotto:
+9: Approvato da:
+10: Operazioni
+11: Ingegneria
+12: Qualità
+13: VSOP
+14: SOP Visivo CTQ
+15: Metro a nastro
+16: Assemblaggio
+17: DPI
+18: Gabrielle Mullins
+19: Regina Tune
+20: 1500 Linee 1-4
+21: Lavorazione Jamb
+22: Kevin Flippen
+23: Molly Mullins
+24: Fabbricazione Ancoraggio Binario d'Incontro
+25: 1. Impostare la macchina all'altezza del telaio come indicato sull'etichetta WIP.
+26: 2. Punzonare l'ancoraggio, quindi misurare la posizione (come da foto) ±1/32". Il lato sinistro e destro non possono essere distanti più di 1/16" l'uno dall'altro.
+27: Durante l'installazione
+28: 3. Controllare 1 unità ogni 5 e ad ogni cambio di altezza.
+29: 4. Confermare sull'etichetta WIP se è richiesto il foro CSL.
+30: PO = Solo preparazione (forare ma senza scrocco)
+31: Y = forare e installare lo scrocco
+32: N = nessuna foratura
+33: Se forato, fare riferimento a RMVA-V1-01-0159 (CTQ per foratura CSL) su come misurare.
+34: 5. Verificare sull'etichetta WIP la molla a spirale o di bilanciamento e punzonare di conseguenza.
+35: $$$$$$
+36: 1500-210-214
+37: Quando si controlla la posizione di punzonatura del binario d'incontro, posizionare il metro a nastro alla testa del telaio e contro il lato del vetro fino al primo foro come mostrato sopra.
+38: 4
+39: 2
+40: La tolleranza accettabile è mostrata in verde sotto.
+41: Nota: è mostrata un'unità di altezza 5-0.
+42: Iniziare il metro a nastro dall'interno del telaio, dalla testata
+43: Misurare all'inizio dell'ancoraggio del binario d'incontro (misurare fino alla parte superiore del primo foro quadrato).
+44: Tutte le misure standard misureranno
+45: su .812 che è 13/16
+46: Le misure personalizzate varieranno in base alla dimensione.
+47: 2
+48: #########
+49: Doc. n.:
+50: Lezione Singola
+51: Versione:
+52: Data di entrata in vigore:
+53: Titolo
+54: Data
+55: Nome
+56: Formazione individuale non richiesta;
+57: Pubblicato come comunicazione generale
+58: Dipartimento:
+59: Vinile 1500
+60: Aerografo Materiale Nero/Nero
+61: K Hudgins
+62: $$$$$$
+63: Tutti gli aerografi devono essere collegati a una fonte d'aria
+64: L'interno dell'aerografo e il coperchio devono essere puliti dalla vernice.
+65: Dopo aver pulito gli aerografi con trementina, smaltire il liquido nel contenitore dei rifiuti pericolosi nell'armadietto giallo accanto alla cabina di verniciatura WIP.
+66: Togliere il coperchio e spruzzare dopo la pulizia per assicurarsi che l'aerografo sia pulito. Si dovrebbero vedere delle bolle.
+67: #########
+68: Doc. n.:
+69: Lezione Singola
+70: Versione:
+71: Data di entrata in vigore:
+72: Titolo
+73: Data
+74: Nome
+75: Formazione individuale non richiesta;
+76: Pubblicato come comunicazione generale
+77: Dipartimento:
+78: Vinile 1500
+79: Aerografo Materiale Nero/Nero
+80: K Hudgins
+81: $$$$$$
+82: Tutti i rifiuti solidi devono essere depositati nei barili blu alla fine delle linee.
+83: Il contenitore rosso contiene la trementina. Premere sulla parte superiore grigia con uno straccio per bagnare lo straccio.
+84: Alla fine di ogni turno, prendere gli stencil utilizzati e pulirli usando uno straccio e trementina.
+85: Gli stracci si trovano all'inizio delle linee in scatole di cartone marroni.
+86: #########

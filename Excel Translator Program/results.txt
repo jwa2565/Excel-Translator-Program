@@ -1,0 +1,792 @@
+Spanish
+0: HERRAMIENTAS
+1: INSTRUCCIÓN VISUAL DE TRABAJO
+2: Documento #
+3: Creado por:
+4: Departamento / Línea:
+5: Fecha original:
+6: Operación:
+7: Fecha de revisión:
+8: Producto:
+9: Aprobado por:
+10: Operaciones
+11: Ingeniería
+12: Calidad
+13: VSOP
+14: SOP Visual CTQ
+15: Cinta métrica
+16: Ensamblaje
+17: EPP
+18: Gabrielle Mullins
+19: Regina Tune
+20: 1500 Líneas 1-4
+21: Procesamiento de Jamb
+22: Kevin Flippen
+23: Molly Mullins
+24: Fabricación de anclaje de riel de unión
+25: 1. Ajuste la máquina a la altura del marco de acuerdo con lo que se indica en la etiqueta WIP.
+26: 2. Perfore el anclaje, luego mida la ubicación (según la imagen) ±1/32". El lado izquierdo y el lado derecho no pueden estar a más de 1/16" de coincidencia.
+27: Al instalar
+28: 3. Verifique 1 de cada 5 unidades y en cada cambio de altura.
+29: 4. Confirme en la etiqueta WIP si se requiere el orificio CSL.
+30: PO = Preparar solo (perforar orificio pero sin pestillo)
+31: Y = perforar orificio e instalar pestillo
+32: N = sin perforación
+33: Si se perfora, consulte RMVA-V1-01-0159 (CTQ para perforación CSL) para saber cómo medir.
+34: 5. Verifique en la etiqueta WIP el resorte de bobina o balance y perfore según corresponda.
+35: $$$$$$
+36: 1500-210-214
+37: Al verificar la ubicación de perforación de su riel de unión, coloque su cinta métrica en la cabeza del marco y contra la pata de vidrio hasta el primer orificio como se muestra arriba.
+38: 4
+39: 2
+40: Tolerancia aceptable que se muestra en verde a continuación.
+41: Nota: se muestra una unidad de altura de 5-0.
+42: Comience la cinta métrica en el interior del marco en el extremo de la cabeza
+43: Mida en el comienzo de la perforación del anclaje del riel de unión (mida hasta la parte superior de la primera perforación cuadrada).
+44: Todos los tamaños estándar medirán
+45: en .812 que es 13/16
+46: Los tamaños personalizados variarán según el tamaño.
+47: 2
+48: #########
+49: Documento #:
+50: Lección de un punto
+51: Versión:
+52: Fecha de entrada en vigor:
+53: Título
+54: Fecha
+55: Nombre
+56: No se requiere capacitación individual;
+57: Publicado como comunicación general
+58: Departamento:
+59: Vinilo 1500
+60: Aerografía Negro/Negro Material
+61: K Hudgins
+62: $$$$$$
+63: Todos los aerógrafos deben estar enchufados a una fuente de aire
+64: El interior del aerógrafo y la tapa deben limpiarse de pintura.
+65: Después de limpiar los aerógrafos con aguarrás, deseche el líquido en el contenedor de residuos peligrosos en el gabinete amarillo junto a la cabina de pintura WIP.
+66: Retire la tapa y rocíe después de limpiar para asegurar que el aerógrafo esté limpio. Debería ver burbujas.
+67: #########
+68: Documento #:
+69: Lección de un punto
+70: Versión:
+71: Fecha de entrada en vigor:
+72: Título
+73: Fecha
+74: Nombre
+75: No se requiere capacitación individual;
+76: Publicado como comunicación general
+77: Departamento:
+78: Vinilo 1500
+79: Aerografía Negro/Negro Material
+80: K Hudgins
+81: $$$$$$
+82: Todos los residuos sólidos deben depositarse en los barriles azules al final de las líneas.
+83: El recipiente rojo contiene el aguarrás. Presione la tapa gris con un trapo para humedecer el trapo.
+84: Al final de cada turno, tome las plantillas que se usaron y límpielas con un trapo y aguarrás.
+85: Los trapos se encuentran al principio de las líneas en cajas de cartón marrones.
+86: #########
+Arabic
+0: الأدوات
+1: تعليمات العمل المرئية
+2: رقم المستند
+3: تم الإنشاء بواسطة:
+4: القسم / الخط:
+5: التاريخ الأصلي:
+6: العملية:
+7: تاريخ المراجعة:
+8: المنتج:
+9: تمت الموافقة بواسطة:
+10: العمليات
+11: الهندسة
+12: الجودة
+13: VSOP
+14: CTQ Visual SOP
+15: شريط القياس
+16: التجميع
+17: معدات الوقاية الشخصية
+18: Gabrielle Mullins
+19: Regina Tune
+20: 1500 خطوط 1-4
+21: معالجة العتبة
+22: Kevin Flippen
+23: Molly Mullins
+24: تصنيع مرساة سكة الاجتماع
+25: 1. اضبط الآلة على ارتفاع الإطار وفقًا لما هو مدرج في ملصق WIP.
+26: 2. قم بثقب المرساة ، ثم قم بقياس الموقع (حسب الصورة) ±1/32 بوصة. يجب ألا يكون الجانب الأيسر والأيمن أبعد من 1/16 بوصة عن المطابقة.
+27: عند التركيب
+28: 3. تحقق من وحدة واحدة من كل 5 وحدات وعند كل تغيير في الارتفاع.
+29: 4. تأكد من ملصق WIP إذا كان ثقب CSL مطلوبًا.
+30: PO = تحضير فقط (قم بتدوير الفتحة ولكن بدون مزلاج)
+31: Y = قم بتدوير الفتحة وقم بتركيب المزلاج
+32: N = لا يوجد تدوير
+33: إذا تم التدوير ، فارجع إلى RMVA-V1-01-0159 (CTQ لتدوير CSL) لمعرفة كيفية القياس.
+34: 5. تحقق من ملصق WIP من زنبرك الملف أو التوازن وقم بالثقب وفقًا لذلك.
+35: $$$$$$
+36: 1500-210-214
+37: عند التحقق من موقع ثقب سكة الاجتماع الخاص بك ، ضع شريط القياس الخاص بك عند رأس العتبة وبجانب ساق الزجاج إلى الفتحة الأولى كما هو موضح أعلاه.
+38: 4
+39: 2
+40: التفاوت المقبول موضح باللون الأخضر أدناه.
+41: ملاحظة: الموضح هو وحدة بارتفاع 5-0.
+42: ابدأ شريط القياس من الداخل عند نهاية الرأس
+43: قم بالقياس عند بداية ثقب مرساة سكة الاجتماع (قم بالقياس حتى الجزء العلوي من أول ثقب مربع).
+44: ستقيس جميع الأحجام القياسية
+45: على .812 وهو 13/16
+46: ستختلف الأحجام المخصصة حسب الحجم.
+47: 2
+48: #########
+49: رقم المستند:
+50: درس نقطة واحدة
+51: الإصدار:
+52: تاريخ السريان:
+53: العنوان
+54: تاريخ
+55: اسم
+56: لا يلزم التدريب الفردي ؛
+57: منشور كـ اتصال عام
+58: القسم:
+59: فينيل 1500
+60: طلاء بالرش أسود/أسود مادة
+61: K Hudgins
+62: $$$$$$
+63: يجب توصيل جميع أجهزة الرش بمصدر هواء
+64: يجب تنظيف الجزء الداخلي من جهاز الرش والغطاء من الطلاء.
+65: بعد تنظيف أجهزة الرش باستخدام روح المعادن ، تخلص من السائل في حاوية النفايات الخطرة في الخزانة الصفراء بجوار كشك الطلاء WIP.
+66: انزع الغطاء ورش بعد التنظيف للتأكد من أن جهاز الرش نظيف. يجب أن ترى فقاعات.
+67: #########
+68: رقم المستند:
+69: درس نقطة واحدة
+70: الإصدار:
+71: تاريخ السريان:
+72: العنوان
+73: تاريخ
+74: اسم
+75: لا يلزم التدريب الفردي ؛
+76: منشور كـ اتصال عام
+77: القسم:
+78: فينيل 1500
+79: طلاء بالرش أسود/أسود مادة
+80: K Hudgins
+81: $$$$$$
+82: يجب إيداع جميع النفايات الصلبة في البراميل الزرقاء في نهاية الخطوط.
+83: تحتوي العلبة الحمراء على روح المعادن. اضغط على الجزء العلوي الرمادي بقطعة قماش لتبليل قطعة القماش.
+84: في نهاية كل وردية ، أمسك الاستنسل التي تم استخدامها وامسحها باستخدام قطعة قماش وروح المعادن.
+85: يمكن العثور على الخرق في بداية الخطوط في صناديق كرتونية بنية.
+86: #########
+Haitian Creole
+0: ZOUTI
+1: ENSTRIKSYON VIZYÈL TRAVAY
+2: Dokiman #
+3: Kreye pa:
+4: Depatman / Liy:
+5: Dat orijinal:
+6: Operasyon:
+7: Dat revizyon:
+8: Pwodwi:
+9: Apwouve pa:
+10: Operasyon
+11: Enjenyè
+12: Kalite
+13: VSOP
+14: CTQ Enstriksyon Vizyèl SOP
+15: Mezi kasèt
+16: Asanble
+17: PPE
+18: Gabrielle Mullins
+19: Regina Tune
+20: 1500 Liy 1-4
+21: Pwosesis Jamb
+22: Kevin Flippen
+23: Molly Mullins
+24: Fabwikasyon Ankr Relè Reyinyon
+25: 1. Mete machin nan nan wotè ankadreman an dapre sa ki nan etikèt WIP la.
+26: 2. Pwenson ankr la, answit mezire kote a (per foto) ±1/32". Bò gòch ak bò dwat pa ka plis pase 1/16" apa pou yo matche.
+27: Lè w ap enstale
+28: 3. Tcheke 1 sou chak 5 inite ak nan chak chanjman wotè.
+29: 4. Konfime sou etikèt WIP la si twou CSL nesesè.
+30: PO = Preparasyon sèlman (wouze twou men pa gen latch)
+31: Y = wouze twou epi enstale latch
+32: N = pa gen wouze
+33: Si yo wouze, referans a RMVA-V1-01-0159 (CTQ pou wouze CSL) pou kijan pou mezire.
+34: 5. Verifye sou etikèt WIP la bobin oswa balans prentan epi pwensonan kòmsadwa.
+35: $$$$$$
+36: 1500-210-214
+37: Lè w ap tcheke kote ankr relè reyinyon ou a, mete mezi kasèt ou a nan tèt jamb la ak kont janm vè a pou premye twou a jan yo montre pi wo a.
+38: 4
+39: 2
+40: Tolerans akseptab yo montre an vèt anba a.
+41: Remak: yo montre yon inite wotè 5-0.
+42: Kòmanse mezi kasèt la sou andedan jamb la nan tèt la
+43: Mezire nan kòmansman ankr relè reyinyon an (mezire jiska tèt premye twou kare a).
+44: Tout gwosè estanda ap mezire
+45: sou .812 ki se 13/16
+46: Gwosè koutim ap varye selon gwosè.
+47: 2
+48: #########
+49: Nimewo Dokiman:
+50: Leson Yon Pwen
+51: Vèsyon:
+52: Dat Efèktiv:
+53: Tit
+54: Dat
+55: Non
+56: Pa Bezwen Fòmasyon Endividyèl;
+57: Poste kòm Kominikasyon Jeneral
+58: Depatman:
+59: Vinil 1500
+60: Airbrushing Materyèl Nwa/Nwa
+61: K Hudgins
+62: $$$$$$
+63: Tout airbrush yo bezwen konekte nan yon sous lè
+64: Anndan airbrush la ak kouvèti a bezwen netwaye pou yo pa gen penti.
+65: Apre netwayaj airbrush yo ak mineral spirit, jete likid la nan veso dechè danjere ki nan kabinèt jòn ki bò kote penti WIP la.
+66: Retire kouvèti a epi flite apre netwayaj pou asire airbrush la pwòp. Ou ta dwe wè ti wonn.
+67: #########
+68: Nimewo Dokiman:
+69: Leson Yon Pwen
+70: Vèsyon:
+71: Dat Efèktiv:
+72: Tit
+73: Dat
+74: Non
+75: Pa Bezwen Fòmasyon Endividyèl;
+76: Poste kòm Kominikasyon Jeneral
+77: Depatman:
+78: Vinil 1500
+79: Airbrushing Materyèl Nwa/Nwa
+80: K Hudgins
+81: $$$$$$
+82: Tout fatra solid bezwen depoze nan barik ble yo nan fen liy yo.
+83: Bòl wouj la gen mineral spirit. Peze sou tèt gri a ak yon ròg pou mouye ròg la.
+84: Nan fen chak ekip, pran pochoirs yo te itilize yo epi siye yo ak yon ròg ak mineral spirit.
+85: Ròg yo ka jwenn nan kòmansman liy yo nan bwat katon mawon.
+86: #########
+Swahili
+0: ZANA
+1: MAAGIZO YA MAELEKEZO YA KAZI
+2: Nambari ya Hati
+3: Imeundwa na:
+4: Idara / Line:
+5: Tarehe ya Awali:
+6: Operesheni:
+7: Tarehe ya Marekebisho:
+8: Bidhaa:
+9: Imeidhinishwa na:
+10: Operesheni
+11: Uhandisi
+12: Ubora
+13: VSOP
+14: CTQ Visual SOP
+15: Kipimo cha Tape
+16: Mkutano
+17: PPE
+18: Gabrielle Mullins
+19: Regina Tune
+20: Mistari 1500 1-4
+21: Usindikaji wa Jamb
+22: Kevin Flippen
+23: Molly Mullins
+24: Utengenezaji wa Nanga ya Reli ya Mkutano
+25: 1. Weka mashine kwenye urefu wa fremu kulingana na kilichoorodheshwa kwenye lebo ya WIP.
+26: 2. Piga nanga, kisha pima eneo (kwa picha) ±1/32". Upande wa kushoto na kulia hauwezi kuwa zaidi ya 1/16" kutoka kulingana.
+27: Wakati wa kusakinisha
+28: 3. Angalia 1 kati ya kila vitengo 5 na katika kila mabadiliko ya urefu.
+29: 4. Hakikisha kwenye lebo ya WIP ikiwa shimo la CSL linahitajika.
+30: PO = Tayarisha tu (zagaria shimo lakini hakuna latch)
+31: Y = zagaria shimo na weka latch
+32: N = hakuna zagari
+33: Ikiwa imezagariwa, rejelea RMVA-V1-01-0159 (CTQ kwa CSL zagari) jinsi ya kupima.
+34: 5. Thibitisha kwenye lebo ya WIP chemchemi ya koili au mizani na piga kulingana na hayo.
+35: $$$$$$
+36: 1500-210-214
+37: Unapoangalia eneo la nanga la reli ya mkutano weka Kipimo chako cha Tape kwenye Kichwa cha Jamb na dhidi ya Mguu wa Kioo hadi kwenye shimo la kwanza kama inavyoonyeshwa hapo juu.
+38: 4
+39: 2
+40: Toleo linalokubalika linaonyeshwa kwa kijani hapa chini.
+41: Kumbuka: imeonyeshwa ni kitengo cha urefu wa 5-0.
+42: Anza kipimo cha tape kwenye upande wa ndani wa fremu kwenye ncha ya kichwa
+43: Pima kwenye mwanzo wa nanga ya reli ya mkutano (pima hadi juu ya tundu la kwanza la mraba).
+44: Saizi zote za kawaida zitapima
+45: kwenye .812 ambayo ni 13/16
+46: Saizi maalum zitabadilika kulingana na saizi.
+47: 2
+48: #########
+49: Nambari ya Hati:
+50: Darsa ya Pointi Moja
+51: Toleo:
+52: Tarehe ya Utekelezaji:
+53: Kichwa
+54: Tarehe
+55: Jina
+56: Mafunzo ya Mtu Binafsi Hayahitajiki;
+57: Imewekwa kama Mawasiliano ya Jumla
+58: Idara:
+59: Vinyl 1500
+60: Nyenzo Nyeusi/Nyeusi ya Kuchora kwa Ndege
+61: K Hudgins
+62: $$$$$$
+63: Ndege zote za kunyunyuzia lazima ziunganishwe kwenye chanzo cha hewa
+64: Sehemu ya ndani ya ndege ya kunyunyuzia na kifuniko vinahitaji kusafishwa bila rangi.
+65: Baada ya kusafisha ndege za kunyunyuzia kwa roho za madini, toa kioevu kwenye chombo cha taka hatari kwenye kabati la njano kando ya kibanda cha rangi cha WIP.
+66: Ondoa kifuniko na nyunyiza baada ya kusafisha ili kuhakikisha ndege ya kunyunyuzia ni safi. Unapaswa kuona viputo.
+67: #########
+68: Nambari ya Hati:
+69: Darsa ya Pointi Moja
+70: Toleo:
+71: Tarehe ya Utekelezaji:
+72: Kichwa
+73: Tarehe
+74: Jina
+75: Mafunzo ya Mtu Binafsi Hayahitajiki;
+76: Imewekwa kama Mawasiliano ya Jumla
+77: Idara:
+78: Vinyl 1500
+79: Nyenzo Nyeusi/Nyeusi ya Kuchora kwa Ndege
+80: K Hudgins
+81: $$$$$$
+82: Taka zote ngumu lazima ziwekwe kwenye mapipa ya bluu mwishoni mwa mistari.
+83: Kopo jekundu lina roho za madini. Bonyeza juu ya sehemu ya juu ya kijivu na kitambaa ili kulowesha kitambaa.
+84: Mwishoni mwa kila zamu chukua stensi ambazo zilitumika na uzifute kwa kutumia kitambaa na roho za madini.
+85: Vitambaa vinaweza kupatikana mwanzoni mwa mistari kwenye masanduku ya katoni ya hudhurungi.
+86: #########
+French
+0: OUTILS
+1: INSTRUCTION DE TRAVAIL VISUELLE
+2: N° de document
+3: Créé par :
+4: Département / Ligne :
+5: Date originale :
+6: Opération :
+7: Date de révision :
+8: Produit :
+9: Approuvé par :
+10: Opérations
+11: Ingénierie
+12: Qualité
+13: VSOP
+14: SOP visuel CTQ
+15: Mètre ruban
+16: Assemblage
+17: EPI
+18: Gabrielle Mullins
+19: Regina Tune
+20: 1500 Lignes 1-4
+21: Traitement du montant
+22: Kevin Flippen
+23: Molly Mullins
+24: Fabrication d'ancre de rail de rencontre
+25: 1. Réglez la machine à la hauteur du montant conformément à ce qui est indiqué sur l'étiquette WIP.
+26: 2. Percez l'ancre, puis mesurez l'emplacement (selon la photo) ±1/32". Le côté gauche et le côté droit ne peuvent pas être à plus de 1/16" de différence.
+27: Lors de l'installation
+28: 3. Vérifiez 1 unité sur 5 et à chaque changement de hauteur.
+29: 4. Confirmez sur l'étiquette WIP si le trou CSL est requis.
+30: PO = Préparation uniquement (percer le trou mais sans loquet)
+31: Y = percer le trou et installer le loquet
+32: N = pas de perçage
+33: Si percé, référez-vous à RMVA-V1-01-0159 (CTQ pour le perçage CSL) pour savoir comment jauger.
+34: 5. Vérifiez sur l'étiquette WIP le ressort hélicoïdal ou le ressort d'équilibrage et percez en conséquence.
+35: $$$$$$
+36: 1500-210-214
+37: Lors de la vérification de l'emplacement de perforation de votre rail de rencontre, placez votre mètre ruban à la tête du montant et contre le montant vitré jusqu'au premier trou comme indiqué ci-dessus.
+38: 4
+39: 2
+40: Tolérance acceptable indiquée en vert ci-dessous.
+41: Remarque : il est montré une unité de hauteur 5-0.
+42: Commencez le mètre ruban à l'intérieur du montant à l'extrémité de la tête
+43: Mesurez au début de la perforation de l'ancre du rail de rencontre (mesurez jusqu'en haut du premier trou carré).
+44: Toutes les tailles standard mesureront
+45: sur .812 ce qui est 13/16
+46: Les tailles personnalisées varieront selon la taille.
+47: 2
+48: #########
+49: N° de document :
+50: Leçon unique
+51: Version :
+52: Date d'entrée en vigueur :
+53: Titre
+54: Date
+55: Nom
+56: Formation individuelle non requise ;
+57: Affiché comme communication générale
+58: Département :
+59: Vinyle 1500
+60: Airbrushing Matière Noir/Noir
+61: K Hudgins
+62: $$$$$$
+63: Tous les aérographes doivent être branchés à une source d'air
+64: L'intérieur de l'aérographe et le couvercle doivent être nettoyés de la peinture.
+65: Après avoir nettoyé les aérographes avec de la térébenthine, jetez le liquide dans le conteneur de déchets dangereux de l'armoire jaune à côté de la cabine de peinture WIP.
+66: Retirez le couvercle et pulvérisez après le nettoyage pour vous assurer que l'aérographe est propre. Vous devriez voir des bulles.
+67: #########
+68: N° de document :
+69: Leçon unique
+70: Version :
+71: Date d'entrée en vigueur :
+72: Titre
+73: Date
+74: Nom
+75: Formation individuelle non requise ;
+76: Affiché comme communication générale
+77: Département :
+78: Vinyle 1500
+79: Airbrushing Matière Noir/Noir
+80: K Hudgins
+81: $$$$$$
+82: Tous les déchets solides doivent être déposés dans les barils bleus au bout des lignes.
+83: Le récipient rouge contient la térébenthine. Appuyez sur le dessus gris avec un chiffon pour mouiller le chiffon.
+84: À la fin de chaque quart de travail, prenez les pochoirs utilisés et essuyez-les à l'aide d'un chiffon et de térébenthine.
+85: Les chiffons se trouvent au début des lignes dans des boîtes en carton marron.
+86: #########
+Vietnamese
+0: CÔNG CỤ
+1: HƯỚNG DẪN CÔNG VIỆC TRỰC QUAN
+2: Số tài liệu
+3: Được tạo bởi:
+4: Phòng / Dây chuyền:
+5: Ngày ban đầu:
+6: Vận hành:
+7: Ngày sửa đổi:
+8: Sản phẩm:
+9: Được phê duyệt bởi:
+10: Vận hành
+11: Kỹ thuật
+12: Chất lượng
+13: VSOP
+14: SOP Trực quan CTQ
+15: Thước dây
+16: Lắp ráp
+17: PPE
+18: Gabrielle Mullins
+19: Regina Tune
+20: 1500 Dây chuyền 1-4
+21: Xử lý Khung cửa
+22: Kevin Flippen
+23: Molly Mullins
+24: Chế tạo Móc nối thanh ray gặp mặt
+25: 1. Đặt máy ở độ cao khung theo chỉ dẫn trên nhãn WIP.
+26: 2. Đấm móc nối, sau đó đo vị trí (theo hình ảnh) ±1/32". Cạnh trái và cạnh phải không được lệch quá 1/16" so với nhau.
+27: Khi lắp đặt
+28: 3. Kiểm tra 1 trong mỗi 5 đơn vị và tại mỗi lần thay đổi độ cao.
+29: 4. Xác nhận trên nhãn WIP xem có cần lỗ CSL không.
+30: PO = Chỉ chuẩn bị (khoan lỗ nhưng không có chốt)
+31: Y = khoan lỗ và lắp chốt
+32: N = không khoan
+33: Nếu được khoan, hãy tham khảo RMVA-V1-01-0159 (CTQ cho lỗ khoan CSL) về cách đo.
+34: 5. Xác nhận trên nhãn WIP loại lò xo cuộn hoặc lò xo cân bằng và đấm tương ứng.
+35: $$$$$$
+36: 1500-210-214
+37: Khi kiểm tra vị trí đấm móc nối thanh ray gặp mặt của bạn, hãy đặt Thước dây của bạn ở Đầu Khung cửa và dựa vào Cạnh kính đến lỗ đầu tiên như hình trên.
+38: 4
+39: 2
+40: Dung sai chấp nhận được hiển thị bằng màu xanh lá cây bên dưới.
+41: Lưu ý: hình hiển thị là đơn vị có chiều cao 5-0.
+42: Bắt đầu thước dây từ mặt trong của khung cửa ở đầu
+43: Đo tại điểm bắt đầu của móc nối thanh ray gặp mặt (đo đến đỉnh lỗ vuông đầu tiên).
+44: Tất cả các kích thước tiêu chuẩn sẽ đo
+45: ở mức .812 tức là 13/16
+46: Kích thước tùy chỉnh sẽ thay đổi theo kích thước.
+47: 2
+48: #########
+49: Số tài liệu:
+50: Bài học một điểm
+51: Phiên bản:
+52: Ngày hiệu lực:
+53: Tiêu đề
+54: Ngày
+55: Tên
+56: Không yêu cầu đào tạo cá nhân;
+57: Đăng dưới dạng Truyền thông chung
+58: Phòng:
+59: Vinyl 1500
+60: Sơn Phun Chất liệu Đen/Đen
+61: K Hudgins
+62: $$$$$$
+63: Tất cả các máy sơn phun cần được cắm vào nguồn khí
+64: Bên trong máy sơn phun và nắp cần được làm sạch hết sơn.
+65: Sau khi làm sạch máy sơn phun bằng dầu khoáng, hãy đổ chất lỏng vào thùng rác thải nguy hại trong tủ màu vàng bên cạnh khu vực sơn WIP.
+66: Tháo nắp ra và phun sau khi làm sạch để đảm bảo máy sơn phun sạch. Bạn sẽ thấy bọt khí.
+67: #########
+68: Số tài liệu:
+69: Bài học một điểm
+70: Phiên bản:
+71: Ngày hiệu lực:
+72: Tiêu đề
+73: Ngày
+74: Tên
+75: Không yêu cầu đào tạo cá nhân;
+76: Đăng dưới dạng Truyền thông chung
+77: Phòng:
+78: Vinyl 1500
+79: Sơn Phun Chất liệu Đen/Đen
+80: K Hudgins
+81: $$$$$$
+82: Tất cả chất thải rắn cần được bỏ vào các thùng màu xanh lam ở cuối dây chuyền.
+83: Hộp màu đỏ chứa dầu khoáng. Nhấn xuống trên nắp xám bằng một miếng giẻ để làm ẩm miếng giẻ.
+84: Cuối mỗi ca, hãy lấy các khuôn đã sử dụng và lau sạch chúng bằng một miếng giẻ và dầu khoáng.
+85: Có thể tìm thấy giẻ lau ở đầu dây chuyền trong các hộp carton màu nâu.
+86: #########
+High Valyrian
+0: ZANOTĪ
+1: NAJALĪ MANA MANASTĪ
+2: Dāñar Vālar
+3: Rōva Anar:
+4: Gevor Vējo:
+5: Dāñar Vhēsirī:
+6: Valon:
+7: Dāñar Vēlar:
+8: Sīkūl:
+9: Rōva Anar:
+10: Valon Larimor
+11: Sīkūl Larimor
+12: VALONĀ
+13: VSOP
+14: CTQ MANASTĪ VĀLAR
+15: Kēlo Varūl
+16: Zalē
+17: ZANOTĪ SĪDĀR
+18: Gabrielle Mullins
+19: Regina Tune
+20: MĪR MĀR VAYĪN 1-4
+21: Trajikūl Zēm Fātih
+22: Kevin Flippen
+23: Molly Mullins
+24: Ānkar Vējo Abar Nīmār
+25: 1. Zālāt jālāt nēna mīr zēm mēna dāñar kōv lēb WĪP vōd.
+26: 2. Ankar zalē, dāñar valon piktūr vōd ±1/32". Valon lēvo valon dēro zōna vōr 1/16" skari vōr.
+27: Ven Yūl Zālāt
+28: 3. Sīkūl mēna mīr 5 tivvose jē mēna zēm dāñar vōr.
+29: 4. Sīkūlē lēb WĪP jē āstar CSL pako nā.
+30: PO = Zaltī Zālā (Pako kōr, ak pako Zālā nā)
+31: Y = Pako kōr jē Zālā
+32: N = Pako nā
+33: Jē pako tivvose, sīkūl RmVĀ-V1-01-0159 (CTQ jē pako CSL) dāñar valon rōva.
+34: 5. Sīkūlē lēb WĪP kōr zīz vālar kōr jē āstar vōr.
+35: $$$$$$
+36: 1500-210-214
+37: Ven Sīkūl Valon Ānkar Abar Nīmar Āstār, Kēlo Varūl dēro Zēm Fātih, jē Mēza Kīra valon pako vōr.
+38: 4
+39: 2
+40: Skari Vēkaro jē zīli vōr greēn.
+41: Nōt: zīli vōr jālāt mīr 5-0.
+42: Kēlo Varūl zālāt mēna Zēm Fātih vēr.
+43: Valon Abar Nīmar Ānkar Zālāt (Valon zīli pako marē zōra).
+44: Varūl Zaltī Skari
+45: ven .812 jē 13/16
+46: Varūl Vējar Skari Skarē.
+47: 2
+48: #########
+49: Dāñar Vālar:
+50: Nājalī Mīr
+51: Vēlar:
+52: Dāñar Vāsyrī:
+53: Nājalī
+54: Dāñar
+55: Anar
+56: Zalē Pōkī Dāñar nā.
+57: Zīli Vējo Vālar
+58: Gevor:
+59: Vinyl 1500
+60: Āmbār Kōr Zaltī
+61: K Hudgins
+62: $$$$$$
+63: Āmbār zālāt sīdār kōr āstar kōr.
+64: Āmbār zālāt jē kōr zaltī ven.
+65: Ven Zaltī Āmbār Kōr Rōvāl, zīli Āstar jē vālar nēna kabinet golōs vēr WĪP rōval.
+66: Āmbār Āstar jē vōr jē āstar Āstar kōr. Jē sīkūl vōr mīr.
+67: #########
+68: Dāñar Vālar:
+69: Nājalī Mīr
+70: Vēlar:
+71: Dāñar Vāsyrī:
+72: Nājalī
+73: Dāñar
+74: Anar
+75: Zalē Pōkī Dāñar nā.
+76: Zīli Vējo Vālar
+77: Gevor:
+78: Vinyl 1500
+79: Āmbār Kōr Zaltī
+80: K Hudgins
+81: $$$$$$
+82: Zaltī Zīkūl Zīlāt dāñar baril bōl vēr vēr.
+83: Rōval golōs zaltī Kōr jē Rōvāl. Ven āstar rōval nēna zīli rōval.
+84: Ven Zaltī Mīr Vōr, Ānkar Zālāt jē rōvāl nēna rōval.
+85: Āstār Zālāt vēr mēna bōks karton brūn.
+86: #########
+Japanese
+0: ツール
+1: ビジュアル作業指示
+2: 文書番号
+3: 作成者:
+4: 部署/ライン:
+5: 作成日:
+6: 工程:
+7: 改訂日:
+8: 製品:
+9: 承認者:
+10: オペレーション
+11: エンジニアリング
+12: 品質
+13: VSOP
+14: CTQ ビジュアルSOP
+15: メジャー
+16: アセンブリ
+17: PPE
+18: Gabrielle Mullins
+19: Regina Tune
+20: 1500 ライン 1-4
+21: ジャブ加工
+22: Kevin Flippen
+23: Molly Mullins
+24: ミーティングレールアンカー製造
+25: 1. WIPラベルに記載されている通りに、機械をサッシの高さに設定してください。
+26: 2. アンカーをパンチし、位置を測定します（写真参照）±1/32インチ。左右のずれは1/16インチ以内としてください。
+27: 取り付ける際
+28: 3. 5台に1台、および高さ変更ごとに確認してください。
+29: 4. CSL穴が必要かどうか、WIPラベルで確認してください。
+30: PO = 準備のみ（穴は開けるがラッチは取り付けない）
+31: Y = 穴を開けてラッチを取り付ける
+32: N = 穴を開けない
+33: 穴を開ける場合は、RMVA-V1-01-0159（CSL穴あけのCTQ）を参照して測定方法を確認してください。
+34: 5. WIPラベルでコイルまたはバネを確認し、それに応じてパンチしてください。
+35: $$$$$$
+36: 1500-210-214
+37: ミーティングレールパンチ位置を確認する際は、図のように、ジャムのヘッドからガラスレッグに沿ってメジャーを最初の穴に当ててください。
+38: 4
+39: 2
+40: 許容誤差は下の緑色で示されています。
+41: 注：表示されているのは高さ5-0のユニットです。
+42: ヘッドエンドのジャムの内側からメジャーを開始
+43: ミーティングレールアンカーパンチの開始位置を測定（最初の四角いパンチの上部まで測定）。
+44: すべての標準サイズは測定します
+45: 0.812（13/16）で
+46: カスタムサイズはサイズによって異なります。
+47: 2
+48: #########
+49: 文書番号:
+50: ワンポイントレッスン
+51: バージョン:
+52: 発効日:
+53: タイトル
+54: 日付
+55: 名前
+56: 個人トレーニング不要;
+57: 一般コミュニケーションとして掲示
+58: 部署:
+59: ビニール 1500
+60: エアブラシ ブラック/ブラック素材
+61: K Hudgins
+62: $$$$$$
+63: すべてのエアブラシは、エア源に接続する必要があります
+64: エアブラシの内部と蓋は、塗料が付着していないことを確認してください。
+65: ミネラルスピリットでエアブラシを洗浄した後、WIP塗装ブースの隣にある黄色いキャビネットの危険物容器に液体を廃棄してください。
+66: 洗浄後、蓋を外し、エアブラシがきれいであることを確認するためにスプレーしてください。泡が見えるはずです。
+67: #########
+68: 文書番号:
+69: ワンポイントレッスン
+70: バージョン:
+71: 発効日:
+72: タイトル
+73: 日付
+74: 名前
+75: 個人トレーニング不要;
+76: 一般コミュニケーションとして掲示
+77: 部署:
+78: ビニール 1500
+79: エアブラシ ブラック/ブラック素材
+80: K Hudgins
+81: $$$$$$
+82: すべての固形廃棄物は、ラインの終端にある青い樽に捨てる必要があります。
+83: 赤い容器にはミネラルスピリットが入っています。布で灰色の蓋を押し下げて布を湿らせてください。
+84: 各シフトの終わりに、使用したステンシルをつかみ、布とミネラルスピリットを使用して拭き取ってください。
+85: 布はラインの開始地点にある茶色の段ボール箱で見つけることができます。
+86: #########
+Italian
+0: STRUMENTI
+1: ISTRUZIONI VISIVE DI LAVORO
+2: Doc. n.
+3: Creato da:
+4: Dipartimento / Linea:
+5: Data originale:
+6: Operazione:
+7: Data revisione:
+8: Prodotto:
+9: Approvato da:
+10: Operazioni
+11: Ingegneria
+12: Qualità
+13: VSOP
+14: SOP Visivo CTQ
+15: Metro a nastro
+16: Assemblaggio
+17: DPI
+18: Gabrielle Mullins
+19: Regina Tune
+20: 1500 Linee 1-4
+21: Lavorazione Jamb
+22: Kevin Flippen
+23: Molly Mullins
+24: Fabbricazione Ancoraggio Binario d'Incontro
+25: 1. Impostare la macchina all'altezza del telaio come indicato sull'etichetta WIP.
+26: 2. Punzonare l'ancoraggio, quindi misurare la posizione (come da foto) ±1/32". Il lato sinistro e destro non possono essere distanti più di 1/16" l'uno dall'altro.
+27: Durante l'installazione
+28: 3. Controllare 1 unità ogni 5 e ad ogni cambio di altezza.
+29: 4. Confermare sull'etichetta WIP se è richiesto il foro CSL.
+30: PO = Solo preparazione (forare ma senza scrocco)
+31: Y = forare e installare lo scrocco
+32: N = nessuna foratura
+33: Se forato, fare riferimento a RMVA-V1-01-0159 (CTQ per foratura CSL) su come misurare.
+34: 5. Verificare sull'etichetta WIP la molla a spirale o di bilanciamento e punzonare di conseguenza.
+35: $$$$$$
+36: 1500-210-214
+37: Quando si controlla la posizione di punzonatura del binario d'incontro, posizionare il metro a nastro alla testa del telaio e contro il lato del vetro fino al primo foro come mostrato sopra.
+38: 4
+39: 2
+40: La tolleranza accettabile è mostrata in verde sotto.
+41: Nota: è mostrata un'unità di altezza 5-0.
+42: Iniziare il metro a nastro dall'interno del telaio, dalla testata
+43: Misurare all'inizio dell'ancoraggio del binario d'incontro (misurare fino alla parte superiore del primo foro quadrato).
+44: Tutte le misure standard misureranno
+45: su .812 che è 13/16
+46: Le misure personalizzate varieranno in base alla dimensione.
+47: 2
+48: #########
+49: Doc. n.:
+50: Lezione Singola
+51: Versione:
+52: Data di entrata in vigore:
+53: Titolo
+54: Data
+55: Nome
+56: Formazione individuale non richiesta;
+57: Pubblicato come comunicazione generale
+58: Dipartimento:
+59: Vinile 1500
+60: Aerografo Materiale Nero/Nero
+61: K Hudgins
+62: $$$$$$
+63: Tutti gli aerografi devono essere collegati a una fonte d'aria
+64: L'interno dell'aerografo e il coperchio devono essere puliti dalla vernice.
+65: Dopo aver pulito gli aerografi con trementina, smaltire il liquido nel contenitore dei rifiuti pericolosi nell'armadietto giallo accanto alla cabina di verniciatura WIP.
+66: Togliere il coperchio e spruzzare dopo la pulizia per assicurarsi che l'aerografo sia pulito. Si dovrebbero vedere delle bolle.
+67: #########
+68: Doc. n.:
+69: Lezione Singola
+70: Versione:
+71: Data di entrata in vigore:
+72: Titolo
+73: Data
+74: Nome
+75: Formazione individuale non richiesta;
+76: Pubblicato come comunicazione generale
+77: Dipartimento:
+78: Vinile 1500
+79: Aerografo Materiale Nero/Nero
+80: K Hudgins
+81: $$$$$$
+82: Tutti i rifiuti solidi devono essere depositati nei barili blu alla fine delle linee.
+83: Il contenitore rosso contiene la trementina. Premere sulla parte superiore grigia con uno straccio per bagnare lo straccio.
+84: Alla fine di ogni turno, prendere gli stencil utilizzati e pulirli usando uno straccio e trementina.
+85: Gli stracci si trovano all'inizio delle linee in scatole di cartone marroni.
+86: #########

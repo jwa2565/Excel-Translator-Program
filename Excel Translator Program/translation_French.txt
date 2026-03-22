@@ -1,0 +1,87 @@
+0: OUTILS
+1: INSTRUCTION DE TRAVAIL VISUELLE
+2: N° de document
+3: Créé par :
+4: Département / Ligne :
+5: Date originale :
+6: Opération :
+7: Date de révision :
+8: Produit :
+9: Approuvé par :
+10: Opérations
+11: Ingénierie
+12: Qualité
+13: VSOP
+14: SOP visuel CTQ
+15: Mètre ruban
+16: Assemblage
+17: EPI
+18: Gabrielle Mullins
+19: Regina Tune
+20: 1500 Lignes 1-4
+21: Traitement du montant
+22: Kevin Flippen
+23: Molly Mullins
+24: Fabrication d'ancre de rail de rencontre
+25: 1. Réglez la machine à la hauteur du montant conformément à ce qui est indiqué sur l'étiquette WIP.
+26: 2. Percez l'ancre, puis mesurez l'emplacement (selon la photo) ±1/32". Le côté gauche et le côté droit ne peuvent pas être à plus de 1/16" de différence.
+27: Lors de l'installation
+28: 3. Vérifiez 1 unité sur 5 et à chaque changement de hauteur.
+29: 4. Confirmez sur l'étiquette WIP si le trou CSL est requis.
+30: PO = Préparation uniquement (percer le trou mais sans loquet)
+31: Y = percer le trou et installer le loquet
+32: N = pas de perçage
+33: Si percé, référez-vous à RMVA-V1-01-0159 (CTQ pour le perçage CSL) pour savoir comment jauger.
+34: 5. Vérifiez sur l'étiquette WIP le ressort hélicoïdal ou le ressort d'équilibrage et percez en conséquence.
+35: $$$$$$
+36: 1500-210-214
+37: Lors de la vérification de l'emplacement de perforation de votre rail de rencontre, placez votre mètre ruban à la tête du montant et contre le montant vitré jusqu'au premier trou comme indiqué ci-dessus.
+38: 4
+39: 2
+40: Tolérance acceptable indiquée en vert ci-dessous.
+41: Remarque : il est montré une unité de hauteur 5-0.
+42: Commencez le mètre ruban à l'intérieur du montant à l'extrémité de la tête
+43: Mesurez au début de la perforation de l'ancre du rail de rencontre (mesurez jusqu'en haut du premier trou carré).
+44: Toutes les tailles standard mesureront
+45: sur .812 ce qui est 13/16
+46: Les tailles personnalisées varieront selon la taille.
+47: 2
+48: #########
+49: N° de document :
+50: Leçon unique
+51: Version :
+52: Date d'entrée en vigueur :
+53: Titre
+54: Date
+55: Nom
+56: Formation individuelle non requise ;
+57: Affiché comme communication générale
+58: Département :
+59: Vinyle 1500
+60: Airbrushing Matière Noir/Noir
+61: K Hudgins
+62: $$$$$$
+63: Tous les aérographes doivent être branchés à une source d'air
+64: L'intérieur de l'aérographe et le couvercle doivent être nettoyés de la peinture.
+65: Après avoir nettoyé les aérographes avec de la térébenthine, jetez le liquide dans le conteneur de déchets dangereux de l'armoire jaune à côté de la cabine de peinture WIP.
+66: Retirez le couvercle et pulvérisez après le nettoyage pour vous assurer que l'aérographe est propre. Vous devriez voir des bulles.
+67: #########
+68: N° de document :
+69: Leçon unique
+70: Version :
+71: Date d'entrée en vigueur :
+72: Titre
+73: Date
+74: Nom
+75: Formation individuelle non requise ;
+76: Affiché comme communication générale
+77: Département :
+78: Vinyle 1500
+79: Airbrushing Matière Noir/Noir
+80: K Hudgins
+81: $$$$$$
+82: Tous les déchets solides doivent être déposés dans les barils bleus au bout des lignes.
+83: Le récipient rouge contient la térébenthine. Appuyez sur le dessus gris avec un chiffon pour mouiller le chiffon.
+84: À la fin de chaque quart de travail, prenez les pochoirs utilisés et essuyez-les à l'aide d'un chiffon et de térébenthine.
+85: Les chiffons se trouvent au début des lignes dans des boîtes en carton marron.
+86: #########

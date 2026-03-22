@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sst xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" count="25" uniqueCount="25"><si><t>TOOLS</t></si><si><t>VISUAL WORK INSTRUCTION</t></si><si><t>Document #</t></si><si><t>Created by:</t></si><si><t>Department / Line:</t></si><si><t>Original Date:</t></si><si><t>Operation:</t></si><si><t>Revision Date:</t></si><si><t>Product:</t></si><si><t>Approved by:</t></si><si><t>Operations</t></si><si><t xml:space="preserve">Engineering </t></si><si><t>Quality</t></si><si><t>VSOP</t></si><si><t>CTQ Visual SOP</t></si><si><t>Tape Measure</t></si><si><t>Assembly</t></si><si><t>PPE</t></si><si><t>Gabrielle Mullins</t></si><si><t>Regina Tune</t></si><si><t>1500 Lines 1-4</t></si><si><t>Jamb Processing</t></si><si><t>Kevin Flippen</t></si><si><t>Molly Mullins</t></si><si><r><rPr><b/><u/><sz val="28"/><color theme="1"/><rFont val="Calibri"/><family val="2"/><scheme val="minor"/></rPr><t>Meeting Rail Anchor Fabrication</t></r><r><rPr><sz val="28"/><color theme="1"/><rFont val="Calibri"/><family val="2"/><scheme val="minor"/></rPr><t xml:space="preserve">
+
+1.  Set machine to sash height according to what is listed WIP label.
+
+2.  Punch anchor, then measure location (per picture) ±1/32".  Left side and right side can be no more than 1/16" from matching.
+When installing 
+
+3.  Check 1 of every 5 units and at each height change.
+
+4.  Confirm on wip label if CSL hole is required.
+PO = Prep only (rout hole but no latch)
+Y = rout hole and install latch
+N = no rout
+  If routed, refer to RMVA-V1-01-0159 (CTQ for CSL rout) for how to gauge.
+
+5.  Verify on wip label coil or balance spring and punch accordingly.</t></r></si></sst>

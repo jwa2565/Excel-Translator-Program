@@ -1,0 +1,87 @@
+0: HERRAMIENTAS
+1: INSTRUCCIÓN VISUAL DE TRABAJO
+2: Documento #
+3: Creado por:
+4: Departamento / Línea:
+5: Fecha original:
+6: Operación:
+7: Fecha de revisión:
+8: Producto:
+9: Aprobado por:
+10: Operaciones
+11: Ingeniería
+12: Calidad
+13: VSOP
+14: SOP Visual CTQ
+15: Cinta métrica
+16: Ensamblaje
+17: EPP
+18: Gabrielle Mullins
+19: Regina Tune
+20: 1500 Líneas 1-4
+21: Procesamiento de Jamb
+22: Kevin Flippen
+23: Molly Mullins
+24: Fabricación de anclaje de riel de unión
+25: 1. Ajuste la máquina a la altura del marco de acuerdo con lo que se indica en la etiqueta WIP.
+26: 2. Perfore el anclaje, luego mida la ubicación (según la imagen) ±1/32". El lado izquierdo y el lado derecho no pueden estar a más de 1/16" de coincidencia.
+27: Al instalar
+28: 3. Verifique 1 de cada 5 unidades y en cada cambio de altura.
+29: 4. Confirme en la etiqueta WIP si se requiere el orificio CSL.
+30: PO = Preparar solo (perforar orificio pero sin pestillo)
+31: Y = perforar orificio e instalar pestillo
+32: N = sin perforación
+33: Si se perfora, consulte RMVA-V1-01-0159 (CTQ para perforación CSL) para saber cómo medir.
+34: 5. Verifique en la etiqueta WIP el resorte de bobina o balance y perfore según corresponda.
+35: $$$$$$
+36: 1500-210-214
+37: Al verificar la ubicación de perforación de su riel de unión, coloque su cinta métrica en la cabeza del marco y contra la pata de vidrio hasta el primer orificio como se muestra arriba.
+38: 4
+39: 2
+40: Tolerancia aceptable que se muestra en verde a continuación.
+41: Nota: se muestra una unidad de altura de 5-0.
+42: Comience la cinta métrica en el interior del marco en el extremo de la cabeza
+43: Mida en el comienzo de la perforación del anclaje del riel de unión (mida hasta la parte superior de la primera perforación cuadrada).
+44: Todos los tamaños estándar medirán
+45: en .812 que es 13/16
+46: Los tamaños personalizados variarán según el tamaño.
+47: 2
+48: #########
+49: Documento #:
+50: Lección de un punto
+51: Versión:
+52: Fecha de entrada en vigor:
+53: Título
+54: Fecha
+55: Nombre
+56: No se requiere capacitación individual;
+57: Publicado como comunicación general
+58: Departamento:
+59: Vinilo 1500
+60: Aerografía Negro/Negro Material
+61: K Hudgins
+62: $$$$$$
+63: Todos los aerógrafos deben estar enchufados a una fuente de aire
+64: El interior del aerógrafo y la tapa deben limpiarse de pintura.
+65: Después de limpiar los aerógrafos con aguarrás, deseche el líquido en el contenedor de residuos peligrosos en el gabinete amarillo junto a la cabina de pintura WIP.
+66: Retire la tapa y rocíe después de limpiar para asegurar que el aerógrafo esté limpio. Debería ver burbujas.
+67: #########
+68: Documento #:
+69: Lección de un punto
+70: Versión:
+71: Fecha de entrada en vigor:
+72: Título
+73: Fecha
+74: Nombre
+75: No se requiere capacitación individual;
+76: Publicado como comunicación general
+77: Departamento:
+78: Vinilo 1500
+79: Aerografía Negro/Negro Material
+80: K Hudgins
+81: $$$$$$
+82: Todos los residuos sólidos deben depositarse en los barriles azules al final de las líneas.
+83: El recipiente rojo contiene el aguarrás. Presione la tapa gris con un trapo para humedecer el trapo.
+84: Al final de cada turno, tome las plantillas que se usaron y límpielas con un trapo y aguarrás.
+85: Los trapos se encuentran al principio de las líneas en cajas de cartón marrones.
+86: #########

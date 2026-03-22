@@ -1,0 +1,87 @@
+0: CÔNG CỤ
+1: HƯỚNG DẪN CÔNG VIỆC TRỰC QUAN
+2: Số tài liệu
+3: Được tạo bởi:
+4: Phòng / Dây chuyền:
+5: Ngày ban đầu:
+6: Vận hành:
+7: Ngày sửa đổi:
+8: Sản phẩm:
+9: Được phê duyệt bởi:
+10: Vận hành
+11: Kỹ thuật
+12: Chất lượng
+13: VSOP
+14: SOP Trực quan CTQ
+15: Thước dây
+16: Lắp ráp
+17: PPE
+18: Gabrielle Mullins
+19: Regina Tune
+20: 1500 Dây chuyền 1-4
+21: Xử lý Khung cửa
+22: Kevin Flippen
+23: Molly Mullins
+24: Chế tạo Móc nối thanh ray gặp mặt
+25: 1. Đặt máy ở độ cao khung theo chỉ dẫn trên nhãn WIP.
+26: 2. Đấm móc nối, sau đó đo vị trí (theo hình ảnh) ±1/32". Cạnh trái và cạnh phải không được lệch quá 1/16" so với nhau.
+27: Khi lắp đặt
+28: 3. Kiểm tra 1 trong mỗi 5 đơn vị và tại mỗi lần thay đổi độ cao.
+29: 4. Xác nhận trên nhãn WIP xem có cần lỗ CSL không.
+30: PO = Chỉ chuẩn bị (khoan lỗ nhưng không có chốt)
+31: Y = khoan lỗ và lắp chốt
+32: N = không khoan
+33: Nếu được khoan, hãy tham khảo RMVA-V1-01-0159 (CTQ cho lỗ khoan CSL) về cách đo.
+34: 5. Xác nhận trên nhãn WIP loại lò xo cuộn hoặc lò xo cân bằng và đấm tương ứng.
+35: $$$$$$
+36: 1500-210-214
+37: Khi kiểm tra vị trí đấm móc nối thanh ray gặp mặt của bạn, hãy đặt Thước dây của bạn ở Đầu Khung cửa và dựa vào Cạnh kính đến lỗ đầu tiên như hình trên.
+38: 4
+39: 2
+40: Dung sai chấp nhận được hiển thị bằng màu xanh lá cây bên dưới.
+41: Lưu ý: hình hiển thị là đơn vị có chiều cao 5-0.
+42: Bắt đầu thước dây từ mặt trong của khung cửa ở đầu
+43: Đo tại điểm bắt đầu của móc nối thanh ray gặp mặt (đo đến đỉnh lỗ vuông đầu tiên).
+44: Tất cả các kích thước tiêu chuẩn sẽ đo
+45: ở mức .812 tức là 13/16
+46: Kích thước tùy chỉnh sẽ thay đổi theo kích thước.
+47: 2
+48: #########
+49: Số tài liệu:
+50: Bài học một điểm
+51: Phiên bản:
+52: Ngày hiệu lực:
+53: Tiêu đề
+54: Ngày
+55: Tên
+56: Không yêu cầu đào tạo cá nhân;
+57: Đăng dưới dạng Truyền thông chung
+58: Phòng:
+59: Vinyl 1500
+60: Sơn Phun Chất liệu Đen/Đen
+61: K Hudgins
+62: $$$$$$
+63: Tất cả các máy sơn phun cần được cắm vào nguồn khí
+64: Bên trong máy sơn phun và nắp cần được làm sạch hết sơn.
+65: Sau khi làm sạch máy sơn phun bằng dầu khoáng, hãy đổ chất lỏng vào thùng rác thải nguy hại trong tủ màu vàng bên cạnh khu vực sơn WIP.
+66: Tháo nắp ra và phun sau khi làm sạch để đảm bảo máy sơn phun sạch. Bạn sẽ thấy bọt khí.
+67: #########
+68: Số tài liệu:
+69: Bài học một điểm
+70: Phiên bản:
+71: Ngày hiệu lực:
+72: Tiêu đề
+73: Ngày
+74: Tên
+75: Không yêu cầu đào tạo cá nhân;
+76: Đăng dưới dạng Truyền thông chung
+77: Phòng:
+78: Vinyl 1500
+79: Sơn Phun Chất liệu Đen/Đen
+80: K Hudgins
+81: $$$$$$
+82: Tất cả chất thải rắn cần được bỏ vào các thùng màu xanh lam ở cuối dây chuyền.
+83: Hộp màu đỏ chứa dầu khoáng. Nhấn xuống trên nắp xám bằng một miếng giẻ để làm ẩm miếng giẻ.
+84: Cuối mỗi ca, hãy lấy các khuôn đã sử dụng và lau sạch chúng bằng một miếng giẻ và dầu khoáng.
+85: Có thể tìm thấy giẻ lau ở đầu dây chuyền trong các hộp carton màu nâu.
+86: #########

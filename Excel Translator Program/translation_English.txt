@@ -1,0 +1,99 @@
+0:  TOOLS 
+1:  VISUAL WORK INSTRUCTION 
+2:  Document # 
+3:  Created by: 
+4:  Department / Line: 
+5:  Original Date: 
+6:  Operation: 
+7:  Revision Date: 
+8:  Product: 
+9:  Approved by: 
+10:  Operations 
+11:  Engineering 
+12:  Quality 
+13:  VSOP 
+14:  CTQ Visual SOP 
+15:  Tape Measure 
+16:  Assembly 
+17:  PPE 
+18:  Gabrielle Mullins 
+19:  Regina Tune 
+20:  1500 Lines 1-4 
+21:  Jamb Processing 
+22:  Kevin Flippen 
+23:  Molly Mullins 
+24:  Meeting Rail Anchor Fabrication 
+25:  1.  Set machine to sash height according to what is listed WIP label.
+
+2.  Punch anchor, then measure location (per picture) ±1/32".  Left side and right side can be no more than 1/16" from matching.
+When installing 
+
+3.  Check 1 of every 5 units and at each height change.
+
+4.  Confirm on wip label if CSL hole is required.
+PO = Prep only (rout hole but no latch)
+Y = rout hole and install latch
+N = no rout
+  If routed, refer to RMVA-V1-01-0159 (CTQ for CSL rout) for how to gauge.
+
+5.  Verify on wip label coil or balance spring and punch accordingly. 
+26:  $$$$$$ 
+27:  1500-210-214 
+28:  When checking 
+29:  your Meeting Rail Punch location place your Tape Measure at Head of the Jamb and against the Glass Leg to the first hole as shown above. 
+30:  4 
+31:  2 
+32:  Acceptable 
+33:  tolerance shown in green below.   Note: shown is a 5-0 height unit. 
+34:  Start tape measure on the inside of jamb at the head end 
+35:  Measure at the beginning of the meeting rail anchor punch (measure to top of first square punch). 
+36:  All standard sizes will measure 
+37:  on .812 which is 13/16 
+38:  Custom sizes will vary by size. 
+39:  2 
+40:  ######### 
+41:  Document #: 
+42:  One Point Lesson 
+43:  Version: 
+44:  Effective Date: 
+45:  Title 
+46:  Date 
+47:  Name 
+48:  Individual Training Not Required;  Posted as General Communication 
+49:  Department: 
+50:  Vinyl 1500 
+51:  Airbrushing Black/Black Material 
+52:  K Hudgins 
+53:  $$$$$$ 
+54:  All airbrushes need to be plugged into an 
+55:  air source 
+56:  The 
+57:  interior of the airbrush and the lid need to be cleaned free of paint. 
+58:  After 
+59:  cleaning the airbrushes with mineral spirit dispose, of liquid into the hazardous waste container in the yellow cabinet next to paint booth WIP. 
+60:  Take 
+61:  the lid off and spray after cleaning to ensure the airbrush is clean. 
+62:  You should see bubbles. 
+63:  ######### 
+64:  Document #: 
+65:  One Point Lesson 
+66:  Version: 
+67:  Effective Date: 
+68:  Title 
+69:  Date 
+70:  Name 
+71:  Individual Training Not Required;  Posted as General Communication 
+72:  Department: 
+73:  Vinyl 1500 
+74:  Airbrushing Black/Black Material 
+75:  K Hudgins 
+76:  $$$$$$ 
+77:  All 
+78:  solid waste needs to be deposited into the blue barrels at the end of the lines. 
+79:  The red canister holds 
+80:  the mineral spirits. Press down on the grey top with a rag to wet the rag. 
+81:  At the end of each 
+82:  shift grab the stencils that were used and wipe them down using a rag and mineral spirits. 
+83:  Rags 
+84:  can be found at the beginning of the lines in brown cardboard boxes. 
+85:  ######### 

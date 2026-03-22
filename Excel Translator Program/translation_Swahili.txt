@@ -1,0 +1,87 @@
+0: ZANA
+1: MAAGIZO YA MAELEKEZO YA KAZI
+2: Nambari ya Hati
+3: Imeundwa na:
+4: Idara / Line:
+5: Tarehe ya Awali:
+6: Operesheni:
+7: Tarehe ya Marekebisho:
+8: Bidhaa:
+9: Imeidhinishwa na:
+10: Operesheni
+11: Uhandisi
+12: Ubora
+13: VSOP
+14: CTQ Visual SOP
+15: Kipimo cha Tape
+16: Mkutano
+17: PPE
+18: Gabrielle Mullins
+19: Regina Tune
+20: Mistari 1500 1-4
+21: Usindikaji wa Jamb
+22: Kevin Flippen
+23: Molly Mullins
+24: Utengenezaji wa Nanga ya Reli ya Mkutano
+25: 1. Weka mashine kwenye urefu wa fremu kulingana na kilichoorodheshwa kwenye lebo ya WIP.
+26: 2. Piga nanga, kisha pima eneo (kwa picha) ±1/32". Upande wa kushoto na kulia hauwezi kuwa zaidi ya 1/16" kutoka kulingana.
+27: Wakati wa kusakinisha
+28: 3. Angalia 1 kati ya kila vitengo 5 na katika kila mabadiliko ya urefu.
+29: 4. Hakikisha kwenye lebo ya WIP ikiwa shimo la CSL linahitajika.
+30: PO = Tayarisha tu (zagaria shimo lakini hakuna latch)
+31: Y = zagaria shimo na weka latch
+32: N = hakuna zagari
+33: Ikiwa imezagariwa, rejelea RMVA-V1-01-0159 (CTQ kwa CSL zagari) jinsi ya kupima.
+34: 5. Thibitisha kwenye lebo ya WIP chemchemi ya koili au mizani na piga kulingana na hayo.
+35: $$$$$$
+36: 1500-210-214
+37: Unapoangalia eneo la nanga la reli ya mkutano weka Kipimo chako cha Tape kwenye Kichwa cha Jamb na dhidi ya Mguu wa Kioo hadi kwenye shimo la kwanza kama inavyoonyeshwa hapo juu.
+38: 4
+39: 2
+40: Toleo linalokubalika linaonyeshwa kwa kijani hapa chini.
+41: Kumbuka: imeonyeshwa ni kitengo cha urefu wa 5-0.
+42: Anza kipimo cha tape kwenye upande wa ndani wa fremu kwenye ncha ya kichwa
+43: Pima kwenye mwanzo wa nanga ya reli ya mkutano (pima hadi juu ya tundu la kwanza la mraba).
+44: Saizi zote za kawaida zitapima
+45: kwenye .812 ambayo ni 13/16
+46: Saizi maalum zitabadilika kulingana na saizi.
+47: 2
+48: #########
+49: Nambari ya Hati:
+50: Darsa ya Pointi Moja
+51: Toleo:
+52: Tarehe ya Utekelezaji:
+53: Kichwa
+54: Tarehe
+55: Jina
+56: Mafunzo ya Mtu Binafsi Hayahitajiki;
+57: Imewekwa kama Mawasiliano ya Jumla
+58: Idara:
+59: Vinyl 1500
+60: Nyenzo Nyeusi/Nyeusi ya Kuchora kwa Ndege
+61: K Hudgins
+62: $$$$$$
+63: Ndege zote za kunyunyuzia lazima ziunganishwe kwenye chanzo cha hewa
+64: Sehemu ya ndani ya ndege ya kunyunyuzia na kifuniko vinahitaji kusafishwa bila rangi.
+65: Baada ya kusafisha ndege za kunyunyuzia kwa roho za madini, toa kioevu kwenye chombo cha taka hatari kwenye kabati la njano kando ya kibanda cha rangi cha WIP.
+66: Ondoa kifuniko na nyunyiza baada ya kusafisha ili kuhakikisha ndege ya kunyunyuzia ni safi. Unapaswa kuona viputo.
+67: #########
+68: Nambari ya Hati:
+69: Darsa ya Pointi Moja
+70: Toleo:
+71: Tarehe ya Utekelezaji:
+72: Kichwa
+73: Tarehe
+74: Jina
+75: Mafunzo ya Mtu Binafsi Hayahitajiki;
+76: Imewekwa kama Mawasiliano ya Jumla
+77: Idara:
+78: Vinyl 1500
+79: Nyenzo Nyeusi/Nyeusi ya Kuchora kwa Ndege
+80: K Hudgins
+81: $$$$$$
+82: Taka zote ngumu lazima ziwekwe kwenye mapipa ya bluu mwishoni mwa mistari.
+83: Kopo jekundu lina roho za madini. Bonyeza juu ya sehemu ya juu ya kijivu na kitambaa ili kulowesha kitambaa.
+84: Mwishoni mwa kila zamu chukua stensi ambazo zilitumika na uzifute kwa kutumia kitambaa na roho za madini.
+85: Vitambaa vinaweza kupatikana mwanzoni mwa mistari kwenye masanduku ya katoni ya hudhurungi.
+86: #########

@@ -1,0 +1,87 @@
+0: ZOUTI
+1: ENSTRIKSYON VIZYÈL TRAVAY
+2: Dokiman #
+3: Kreye pa:
+4: Depatman / Liy:
+5: Dat orijinal:
+6: Operasyon:
+7: Dat revizyon:
+8: Pwodwi:
+9: Apwouve pa:
+10: Operasyon
+11: Enjenyè
+12: Kalite
+13: VSOP
+14: CTQ Enstriksyon Vizyèl SOP
+15: Mezi kasèt
+16: Asanble
+17: PPE
+18: Gabrielle Mullins
+19: Regina Tune
+20: 1500 Liy 1-4
+21: Pwosesis Jamb
+22: Kevin Flippen
+23: Molly Mullins
+24: Fabwikasyon Ankr Relè Reyinyon
+25: 1. Mete machin nan nan wotè ankadreman an dapre sa ki nan etikèt WIP la.
+26: 2. Pwenson ankr la, answit mezire kote a (per foto) ±1/32". Bò gòch ak bò dwat pa ka plis pase 1/16" apa pou yo matche.
+27: Lè w ap enstale
+28: 3. Tcheke 1 sou chak 5 inite ak nan chak chanjman wotè.
+29: 4. Konfime sou etikèt WIP la si twou CSL nesesè.
+30: PO = Preparasyon sèlman (wouze twou men pa gen latch)
+31: Y = wouze twou epi enstale latch
+32: N = pa gen wouze
+33: Si yo wouze, referans a RMVA-V1-01-0159 (CTQ pou wouze CSL) pou kijan pou mezire.
+34: 5. Verifye sou etikèt WIP la bobin oswa balans prentan epi pwensonan kòmsadwa.
+35: $$$$$$
+36: 1500-210-214
+37: Lè w ap tcheke kote ankr relè reyinyon ou a, mete mezi kasèt ou a nan tèt jamb la ak kont janm vè a pou premye twou a jan yo montre pi wo a.
+38: 4
+39: 2
+40: Tolerans akseptab yo montre an vèt anba a.
+41: Remak: yo montre yon inite wotè 5-0.
+42: Kòmanse mezi kasèt la sou andedan jamb la nan tèt la
+43: Mezire nan kòmansman ankr relè reyinyon an (mezire jiska tèt premye twou kare a).
+44: Tout gwosè estanda ap mezire
+45: sou .812 ki se 13/16
+46: Gwosè koutim ap varye selon gwosè.
+47: 2
+48: #########
+49: Nimewo Dokiman:
+50: Leson Yon Pwen
+51: Vèsyon:
+52: Dat Efèktiv:
+53: Tit
+54: Dat
+55: Non
+56: Pa Bezwen Fòmasyon Endividyèl;
+57: Poste kòm Kominikasyon Jeneral
+58: Depatman:
+59: Vinil 1500
+60: Airbrushing Materyèl Nwa/Nwa
+61: K Hudgins
+62: $$$$$$
+63: Tout airbrush yo bezwen konekte nan yon sous lè
+64: Anndan airbrush la ak kouvèti a bezwen netwaye pou yo pa gen penti.
+65: Apre netwayaj airbrush yo ak mineral spirit, jete likid la nan veso dechè danjere ki nan kabinèt jòn ki bò kote penti WIP la.
+66: Retire kouvèti a epi flite apre netwayaj pou asire airbrush la pwòp. Ou ta dwe wè ti wonn.
+67: #########
+68: Nimewo Dokiman:
+69: Leson Yon Pwen
+70: Vèsyon:
+71: Dat Efèktiv:
+72: Tit
+73: Dat
+74: Non
+75: Pa Bezwen Fòmasyon Endividyèl;
+76: Poste kòm Kominikasyon Jeneral
+77: Depatman:
+78: Vinil 1500
+79: Airbrushing Materyèl Nwa/Nwa
+80: K Hudgins
+81: $$$$$$
+82: Tout fatra solid bezwen depoze nan barik ble yo nan fen liy yo.
+83: Bòl wouj la gen mineral spirit. Peze sou tèt gri a ak yon ròg pou mouye ròg la.
+84: Nan fen chak ekip, pran pochoirs yo te itilize yo epi siye yo ak yon ròg ak mineral spirit.
+85: Ròg yo ka jwenn nan kòmansman liy yo nan bwat katon mawon.
+86: #########
